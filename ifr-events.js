@@ -1,3 +1,9 @@
+/*
+IFR Events
+Author: Eddy Pérez
+Url: https://github.com/eddypvz/IFR-events
+* */
+
 window.IfrEvents = function () {
 
     const eventPrefix = 'IfrEvents-'
